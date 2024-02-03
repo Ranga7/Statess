@@ -20196,9 +20196,9 @@
           "arcs": [[-27, 1097, 1098, 1099, 1100, -1079]],
           "type": "Polygon",
           "properties": {
-            "district": "North Tripura",
+            "district": "North TRIPURA",
             "dt_code": "292",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "2011_c"
           }
@@ -20209,7 +20209,7 @@
           "properties": {
             "district": "Dhalai",
             "dt_code": "291",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "2011_c"
           }
@@ -20220,7 +20220,7 @@
           "properties": {
             "district": "Sipahijala",
             "dt_code": "707",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "update2014"
           }
@@ -20231,7 +20231,7 @@
           "properties": {
             "district": "Gomati",
             "dt_code": "709",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "update2014"
           }
@@ -20429,7 +20429,7 @@
           "properties": {
             "district": "Khowai",
             "dt_code": "708",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "update2014"
           }
@@ -20438,9 +20438,9 @@
           "arcs": [[-1109, 1153, -1152]],
           "type": "Polygon",
           "properties": {
-            "district": "West Tripura",
+            "district": "West TRIPURA",
             "dt_code": "289",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "2011_c"
           }
@@ -20449,9 +20449,9 @@
           "arcs": [[-1107, -1113, 1154]],
           "type": "Polygon",
           "properties": {
-            "district": "South Tripura",
+            "district": "South TRIPURA",
             "dt_code": "290",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "2011_c"
           }
@@ -20462,7 +20462,7 @@
           "properties": {
             "district": "Unokoti",
             "dt_code": "710",
-            "st_nm": "Tripura",
+            "st_nm": "TRIPURA",
             "st_code": "16",
             "year": "update2014"
           }
@@ -25041,8 +25041,8 @@
             ]
           ],
           "type": "Polygon",
-          "properties": {"st_nm": "Tripura", "st_code": "16"},
-          "id": "Tripura"
+          "properties": {"st_nm": "TRIPURA", "st_code": "16"},
+          "id": "TRIPURA"
         },
         {
           "arcs": [
