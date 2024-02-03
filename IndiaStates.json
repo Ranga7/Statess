@@ -17951,9 +17951,9 @@
           "arcs": [[-415, 457, 458, 459, -424]],
           "type": "Polygon",
           "properties": {
-            "district": "North Goa",
+            "district": "North GOA",
             "dt_code": "585",
-            "st_nm": "Goa",
+            "st_nm": "GOA",
             "st_code": "30",
             "year": "2011_c"
           }
@@ -17995,9 +17995,9 @@
           "arcs": [[-459, -471, 471]],
           "type": "Polygon",
           "properties": {
-            "district": "South Goa",
+            "district": "South GOA",
             "dt_code": "586",
-            "st_nm": "Goa",
+            "st_nm": "GOA",
             "st_code": "30",
             "year": "2011_c"
           }
@@ -19985,7 +19985,7 @@
           "arcs": [[-999, -1009, 1019, 1020, 1021, -1012, -1010]],
           "type": "Polygon",
           "properties": {
-            "district": "Goalpara",
+            "district": "GOAlpara",
             "dt_code": "302",
             "st_nm": "Assam",
             "st_code": "18",
@@ -24882,8 +24882,8 @@
         {
           "arcs": [[459, -424, -415, 457, -471, 471]],
           "type": "Polygon",
-          "properties": {"st_nm": "Goa", "st_code": "30", "year": "2011_c"},
-          "id": "Goa"
+          "properties": {"st_nm": "GOA", "st_code": "30", "year": "2011_c"},
+          "id": "GOA"
         },
         {
           "arcs": [
