@@ -17687,7 +17687,7 @@
           "arcs": [[-333, -364, 364, 365, -357]],
           "type": "Polygon",
           "properties": {
-            "district": "Vizianagaram",
+            "district": "Vizainagaram",
             "dt_code": "543",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
@@ -17742,7 +17742,7 @@
           "arcs": [[-358, -366, 379, 380, -372]],
           "type": "Polygon",
           "properties": {
-            "district": "Visakhapatnam",
+            "district": "Visakhapatanam",
             "dt_code": "544",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
@@ -17885,7 +17885,7 @@
           "arcs": [[-373, -381, 430, 431, 432, 433], [434]],
           "type": "Polygon",
           "properties": {
-            "district": "East Godavari",
+            "district": "Eastgodavari",
             "dt_code": "545",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
@@ -17907,7 +17907,7 @@
           "arcs": [[-427, 441, 442, 443, 444, 445]],
           "type": "Polygon",
           "properties": {
-            "district": "Prakasam",
+            "district": "Prakasham",
             "dt_code": "549",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
@@ -18028,7 +18028,7 @@
           "arcs": [[-41, 481, 482, -443, 483]],
           "type": "Polygon",
           "properties": {
-            "district": "S.P.S. Nellore",
+            "district": "Nellore",
             "dt_code": "550",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
@@ -18325,7 +18325,7 @@
           "arcs": [[-408, 555, 556, -432, 557]],
           "type": "Polygon",
           "properties": {
-            "district": "West Godavari",
+            "district": "Westgodavari",
             "dt_code": "546",
             "st_nm": "ANDHRA PRADESH",
             "st_code": "37",
