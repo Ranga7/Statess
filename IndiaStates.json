@@ -21823,7 +21823,7 @@
           "arcs": [[1573, 1574, 1575, 1576, 1577]],
           "type": "Polygon",
           "properties": {
-            "district": "Katihar",
+            "district": "katihar",
             "dt_code": "212",
             "st_nm": "Bihar",
             "st_code": "10",
