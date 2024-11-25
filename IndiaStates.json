@@ -22396,7 +22396,7 @@
           "arcs": [[-1722, -1785, 1793, 1794, -1724]],
           "type": "Polygon",
           "properties": {
-            "district": "Sidhi",
+            "district": "SIDHI",
             "dt_code": "462",
             "st_nm": "Madhya Pradesh",
             "st_code": "23",
@@ -22858,7 +22858,7 @@
           "arcs": [[-775, 1925, -1911, -1853, -1920, -871, -833]],
           "type": "Polygon",
           "properties": {
-            "district": "Dindori",
+            "district": "DINDORI",
             "dt_code": "453",
             "st_nm": "Madhya Pradesh",
             "st_code": "23",
