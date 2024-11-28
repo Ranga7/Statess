@@ -18366,7 +18366,7 @@
           }
         },
         {
-          "arcs": [[-203, -249, -311, -328, 566, 567]],
+          "arcs": [[-2, 27, 28, 28, 29]],
           "type": "Polygon",
           "properties": {
             "district": "Gariaband",
